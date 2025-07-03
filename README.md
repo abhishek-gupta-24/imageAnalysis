@@ -30,20 +30,20 @@ git clone https://github.com/abhishek-gupta-24/imageAnalysis.git
 cd imageAnalysis/backend
 
 
-## 2. Create a Virtual Environment (Windows)
+##  Create a Virtual Environment (Windows)
 python -m venv venv
 venv\Scripts\activate
 
 
-### 3. 📥 Install Required Modules
+### 📥 Install Required Modules
 pip install -r requirements.txt
 
 
-### 4. 🧪 Run the Backend
+### 🧪 Run the Backend
 python app.py
 
 
-### 5. 🛠️ Modules Used
+### 🛠️ Modules Used
 Here are common libraries used in this project:
 
 torch (PyTorch)
@@ -52,7 +52,7 @@ matplotlib
 flask or fastapi (backend API)
 pillow.
 
-### 6. You can update or add to requirements.txt anytime by running:
+### You can update or add to requirements.txt anytime by running:
 pip freeze > requirements.txt
 
 
