@@ -25,6 +25,7 @@ This project is designed for explainable image classification using Grad-CAM and
 
 ### 1. 📁 Clone the Repository
 
+```bash
 git clone https://github.com/abhishek-gupta-24/imageAnalysis.git
 cd imageAnalysis/backend
 
